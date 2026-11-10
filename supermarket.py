@@ -65,7 +65,7 @@ tesco.departments.append(pharmacy)
 
 supplier1 = Supplier("Fresh Foods Ltd")
 
-apple = Product("Apple", 1, 2, 0)
+apple = Product("Orange", 1, 2, 0)
 
 fresh.add_product(apple)
 
